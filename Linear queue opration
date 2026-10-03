@@ -20,7 +20,6 @@ printf("\n3.print");
 printf("\n4.exit");
 printf("\nenter your choice:");
 scanf("%d",&ch);
-
 switch(ch)
 {
 
